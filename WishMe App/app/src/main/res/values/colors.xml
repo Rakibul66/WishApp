@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Change these color primary and color primary dark according to your need it's change your application colors-->
+    <color name="colorPrimary">#f3753a</color>
+    <color name="colorPrimaryDark">#f3753a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- This is Splash Screen Loading Animation Color You Can Chnage it Accourding to your Need-->
+    <color name="blackSplash">#673AB7</color>
+
+    <!-- This is Navigation Header Title Color You Can Chnage it Accourding to your Need-->
+    <color name="nav_header_title_color">#FFFFFF</color>
+
+    <!-- Swipe Refresh colrs-->
+    <item name="blue" type="color">#FF33B5E5</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#393939</color>
+
+    <!-- Change these color according to your need it is button colors-->
+    <color name="buttoncolorfirst">#F5BDBD</color>
+    <color name="buttoncolorsecond">#F879DD</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="row_card_bg">#B83D34</color>
+    <color name="common_text">#FAF8F8</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+</resources>

@@ -1,0 +1,76 @@
+<resources>
+
+    <!--TODO: Change this App Name with your own App Name-->
+    <string name="app_name">Muththamizh</string>
+
+    <!--TODO: Ad your admob App id here-->
+    <string name="admob_app_id">ca-app-pub-3797420896115885~3683152924</string>
+
+    <!-- TODO: Ad your admob banner id here-->
+    <string name="admob_banner_id">ca-app-pub-3797420896115885/7430826246</string>
+
+    <!-- TODO: Ad your admob interstital ad unit here-->
+    <string name="admob_interstital_ad_unit">ca-app-pub-3797420896115885/1986927877</string>
+
+    <!--TODO: Add your admob native ad unit here-->
+    <string name="ad_unit_id_native">ca-app-pub-3797420896115885/3624826068</string>
+
+    <!--TODO: Ad your gmail id here -->
+    <string name="gmail_id">muththamizh.app@gmail.com</string>
+
+    <!--TODO: enable / disbale NATIVE ADS BETWEEN ITEM, true to show / false to hide -->
+    <string name="ADMOB_ADS_ENABLED_NATIVE">true</string>
+
+    <!--TODO: Change this number Accounding to your need this show native ads beetween your Walpapers -->
+    <string name="NATIVE_ADS_ITEM_BETWWEN_ADS">5</string>
+
+
+    <!-- TODO: Ad Timer to show Interstital ads -->
+    <string name="AD_MOB_TIME">60</string>
+
+    <string name="NATIVE_ADS_TYPE">admob</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+
+
+    <!-- TODO: change this Slide text or Description Your According-->
+    <string name="slide_1_title">Welcome User</string>
+    <string name="slide_1_desc">Find Daily New Wishes</string>
+
+    <string name="slide_2_title">Daily Updates</string>
+    <string name="slide_2_desc">We Daily Add New Wishes for upcoming Events.</string>
+
+    <string name="slide_3_title">Download Share</string>
+    <string name="slide_3_desc">Download or Share on Social Media</string>
+
+    <string name="slide_4_title">We happy to See you here</string>
+    <string name="slide_4_desc">Enjoy our Service</string>
+    <string name="accesspermission">To Access Application Features Please Allow Some Permission</string>
+    <string name="allow">Allow Permission</string>
+    <string name="comunicate">Comunicate</string>
+    <string name="menu_home">Home</string>
+    <string name="contect">Send Feedback</string>
+    <string name="favourite">Favorite</string>
+    <string name="menu_share">Share This App</string>
+    <string name="menu_rate">Rate This App</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="exit">Exit</string>
+    <string name="Title">Title</string>
+    <string name="search">Search</string>
+
+    <string name="internet">No Internet Connection\nTrun on Internet</string>
+    <string name="nofav">No favourite you have</string>
+    <string name="text">Text Quotes</string>
+    <string name="notification_channel_id_message">india</string>
+
+<!--TODO Add this line to your strings.xml file-->
+    <array name="colors_load">
+        <item>#1B1C1C</item>
+        <item>#FFFFFF</item>
+    </array>
+</resources>

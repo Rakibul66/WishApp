@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307322292048",
+    "firebase_url": "https://wishes-app-61823-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wishes-app-61823",
+    "storage_bucket": "wishes-app-61823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307322292048:android:bc3d4f8886d097253b4e55",
+        "android_client_info": {
+          "package_name": "com.muththamizh.wishes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307322292048-8pi07e5mcbohjt91lb7fflog64feedph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHVqVfDdskDFwLocYAKMzc2xftUVznSKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307322292048-8pi07e5mcbohjt91lb7fflog64feedph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
